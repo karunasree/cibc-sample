@@ -1,0 +1,7 @@
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\bin\Debug\TechTest.Library.dll
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\bin\Debug\TechTest.Library.pdb
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\obj\Debug\TechTest.Library.csprojAssemblyReference.cache
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\obj\Debug\TechTest.Library.csproj.CoreCompileInputs.cache
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\obj\Debug\TechTest.Library.dll
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\obj\Debug\TechTest.Library.pdb
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Library\bin\Debug\TechTest.Library.dll.config

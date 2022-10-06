@@ -1,0 +1,11 @@
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\bin\Debug\TechTest.Console.exe
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\bin\Debug\TechTest.Console.pdb
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\bin\Debug\TechTest.Library.dll
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\bin\Debug\TechTest.Library.pdb
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\obj\x86\Debug\TechTest.Console.csprojAssemblyReference.cache
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.CoreCompileInputs.cache
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\obj\x86\Debug\TechTest.Console.csproj.CopyComplete
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\obj\x86\Debug\TechTest.Console.exe
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\obj\x86\Debug\TechTest.Console.pdb
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\bin\Debug\TechTest.Library.dll.config
+C:\Karunasree\Interview\CIBC\CSharpTechTest-Karuna\CSharpTechTest-Karuna\TechTest.Console\bin\Debug\TechTest.Console.exe.config
